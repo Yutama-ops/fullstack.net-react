@@ -30,3 +30,4 @@
 /Users/yutamabudiman/Developer/Yutama/Learning/Udemy/fullstack.net-react/Restore/API/obj/Debug/net8.0/API.pdb
 /Users/yutamabudiman/Developer/Yutama/Learning/Udemy/fullstack.net-react/Restore/API/obj/Debug/net8.0/API.genruntimeconfig.cache
 /Users/yutamabudiman/Developer/Yutama/Learning/Udemy/fullstack.net-react/Restore/API/obj/Debug/net8.0/ref/API.dll
+/Users/yutamabudiman/Developer/Yutama/Learning/Udemy/fullstack.net-react/Restore/API/obj/Debug/net8.0/API.sourcelink.json
