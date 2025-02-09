@@ -25,4 +25,6 @@ if (app.Environment.IsDevelopment())
 
 app.MapControllers();
 
+DbInitialiser.InitDb(app);
+
 app.Run();

@@ -6,7 +6,7 @@ namespace API.Data;
 
 public class DbInitialiser
 {
-    public void Initialise(WebApplication app)
+    public static void InitDb(WebApplication app)
     {
         Console.WriteLine("Initialising database...");
 
@@ -19,7 +19,7 @@ public class DbInitialiser
         SeedData(context);
     }
 
-    private void SeedData(StoreContext context)
+    private static void SeedData(StoreContext context)
     {
         context.Database.Migrate();
 
